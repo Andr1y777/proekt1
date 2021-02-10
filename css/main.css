@@ -1,9 +1,8 @@
 body{
 	margin: 0;
-
 }
-header{
-	background: orange;
-	height: 100vh;
 
+header{
+	background: red;
+	height: 100vh;
 }
